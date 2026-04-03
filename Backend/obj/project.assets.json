@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Personal Projects\\Web3-RewardBased-System\\Backend\\Backend.csproj",
+      "projectUniqueName": "D:\\Projects\\Personal Projects\\web3_reward_based_system\\Backend\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "D:\\Projects\\Personal Projects\\Web3-RewardBased-System\\Backend\\Backend.csproj",
+      "projectPath": "D:\\Projects\\Personal Projects\\web3_reward_based_system\\Backend\\Backend.csproj",
       "packagesPath": "C:\\Users\\Felaeia\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Personal Projects\\Web3-RewardBased-System\\Backend\\obj\\",
+      "outputPath": "D:\\Projects\\Personal Projects\\web3_reward_based_system\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
